@@ -1,7 +1,7 @@
 class StudentsController < ApplicationController
 
-  def show
-    render 'show'
+  def index
+    render 'index'
 
   end
 end
